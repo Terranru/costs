@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="157585e6-d355-4cba-8719-8f9e48260014">
+  <name>НСИ</name>
+  <synonym>
+    <key>ru</key>
+    <value>НСИ</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Catalog.Доходы</content>
+  <content>Catalog.Контрагенты</content>
+  <content>Catalog.Проекты</content>
+  <content>Catalog.Расходы</content>
+</mdclass:Subsystem>
