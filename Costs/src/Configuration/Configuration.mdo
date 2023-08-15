@@ -41,9 +41,11 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Документы</subsystems>
   <subsystems>Subsystem.НСИ</subsystems>
   <catalogs>Catalog.Доходы</catalogs>
   <catalogs>Catalog.Контрагенты</catalogs>
   <catalogs>Catalog.Проекты</catalogs>
   <catalogs>Catalog.Расходы</catalogs>
+  <documents>Document.УчетДоходов</documents>
 </mdclass:Configuration>
